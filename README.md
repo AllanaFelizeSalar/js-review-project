@@ -1,2 +1,2 @@
-# JavaScript Review Project by write_your_name
+# JavaScript Review Project by Allana Felize Salar
 This project  is a review of JavaScript concepts, from beginner to advanced.
